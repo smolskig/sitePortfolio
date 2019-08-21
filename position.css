@@ -6,6 +6,7 @@ body{
     flex-direction: column;
     scroll-snap-type: y proximity;
     overflow: scroll;
+    
 }
 section{
     scroll-snap-align: start end;
@@ -93,6 +94,7 @@ section{
 
 .foot{
     height:80vh;
+    width:100vw;
 }
 
 .foot h2{

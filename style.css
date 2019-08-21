@@ -1,7 +1,8 @@
 @font-face{
     font-family:"graystroke";
-    src:url('assets\GRAYSTROKE REGULAR.otf');
-
+    src:url('assets/GRAYSTROKE.otf');
+}
+@font-face{
     font-family:"imagine";
     src:url('assets/Imagine_Font.otf')
 }
