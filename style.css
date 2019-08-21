@@ -1,0 +1,101 @@
+@font-face{
+    font-family:"graystroke";
+    src:url('assets\GRAYSTROKE REGULAR.otf');
+
+    font-family:"imagine";
+    src:url('assets/Imagine_Font.otf')
+}
+
+.pag1{
+    background-color:#456eaf;
+}
+.profile img{
+    border:0;
+    border-radius:50%;
+}
+.pag1 h1{
+    font-size:58px;
+    font-family:graystroke;
+    color:white;
+}
+
+.pag{
+    background-color:#f2f7fa;
+}
+.pag h2{
+    font-size:58px;
+    font-family:graystroke;
+    color:#456eaf;
+    
+}
+.texto{
+    color:#456eaf;
+    font-family:consolas, sans-serif;
+    font-weight: bold;
+    font-size:24px;
+}
+.pag div p{
+    font-size:61px;
+    font-family:imagine, sans-serif;
+    color:#456eaf;
+}
+
+.bloco img{
+    height:240px;
+    width:310px;
+}
+
+#html{
+    margin-top:-12px;
+    height:260px;
+    width:330px;
+}
+
+.pag3{
+    background-color:#456eaf;
+}
+
+.pag3 h2{
+    color:white;
+}
+.pag3 div p{
+    color:white;
+}
+
+.texto2{
+    font-size:24px;
+    color:white;
+    font-family:consolas,sans-serif;
+    font-weight: bold;
+}
+
+.pag4{
+    background-color:#f2f7fa;
+}
+
+.pag4 a{
+    text-decoration:none;
+}
+
+.texto3{
+    color:#456eaf;
+    font-size:24px;
+    font-family:consolas,sans-serif;
+    font-weight: bold;
+    
+}
+
+.foot{
+    background-color:#456eaf;
+}
+
+.foot h2{
+    color:white;
+}
+
+.texto4{
+    color:white;
+    font-size:24px;
+    font-family:consolas,sans-serif;
+    font-weight: bold;
+}

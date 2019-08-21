@@ -1,0 +1,121 @@
+
+body{
+    padding:0;
+    display:flex;
+    align-content:center;
+    flex-direction: column;
+    scroll-snap-type: y proximity;
+    overflow: scroll;
+}
+section{
+    scroll-snap-align: start end;
+    width:100vw;
+    height:105vh;
+}
+.pag1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.profile{
+    height:200px;
+    width:200px;
+}
+.pag1 h1{
+    margin-top:120px;
+}
+
+.pag{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+
+.bloco{
+    display:flex;
+    flex-direction: row;
+    align-content: center;
+    margin-right:50px;
+}
+.bloco div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin-top:50px;
+}
+.bloco div p{
+    margin-bottom:10px;
+}
+.bloco ul li{
+    display: inline-flex;
+}
+.pag h2{
+    margin-top:50px;
+}
+.texto{
+    width:500px;
+    margin-top:70px;
+    text-align: center;
+}
+
+.texto2{
+    margin-top:80px;
+    width:500px;
+    text-align: center;
+}
+
+
+.pag3 ul li{
+    padding-left:100px;
+    padding-right: 100px;
+}
+.pag3 .bloco div{
+    display:block;
+}
+.pag3 .bloco{
+    margin-right:0;
+}
+
+
+.pag4 img{
+    margin-top:90px;
+    
+}
+
+.texto3{
+    margin-top:70px;
+    margin-right:25px;
+}
+
+.foot{
+    height:80vh;
+}
+
+.foot h2{
+    margin-top:40px;
+}
+
+
+.foot .bloco{
+    margin-top:100px;
+    margin-right:0;
+}
+.foot .bloco img{
+    height:180px;
+    width:180px;
+}
+
+.foot .bloco ul li{
+    padding-right:80px;
+    padding-left:80px;
+}
+
+.texto4{
+ margin-top:70px;
+ margin-right:25px;   
+}
+
