@@ -1,6 +1,6 @@
 @font-face{
     font-family:"graystroke";
-    src:url('assets\GRAYSTROKE REGULAR.otf');
+    src:url('assets/GRAYSTROKE.otf');
 
     font-family:"imagine";
     src:url('assets/Imagine_Font.otf')
@@ -9,7 +9,7 @@
 .pag1{
     background-color:#456eaf;
 }
-.profile img{
+.profile{
     border:0;
     border-radius:50%;
 }

@@ -19,8 +19,9 @@ section{
     flex-direction: column;
 }
 .profile{
-    height:200px;
-    width:200px;
+    height:250px;
+    width:250px;
+
 }
 .pag1 h1{
     margin-top:120px;
