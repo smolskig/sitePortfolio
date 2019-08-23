@@ -1,0 +1,92 @@
+@media screen and (max-width:780px){
+
+    .bloco{
+        margin:0;
+    }
+    .bloco img{
+        height:170px;
+      
+    }
+    
+    .bloco ul li{
+        display:flex;  
+    }
+    
+    section{
+        height:120vh;
+        text-align: center;
+    }
+    .pag h2{
+        font-size:50px;
+    }
+    .pag p{
+        display:none;
+    }
+
+    .pag3 .bloco img{
+        height:190px;
+        width:auto;
+    }
+    .pag3 .bloco li{
+        padding:0 0 0;
+    }
+    .pag3 .bloco{
+        margin-top:50px;
+    }
+    #node{
+        padding-left:20px;
+    }
+   
+
+    .pag4 .bloco img{
+        height:250px;
+        width:auto;
+    }
+    .pag4 .bloco{
+        margin-top:55px;
+    }
+   
+    .foot{
+        height:100vh;
+    }
+
+    .foot .bloco img{
+        margin-top:20px;
+        height:120px;
+        width:auto;
+    }
+    
+}
+
+@media screen and (min-width:780px) and (max-width:1023px){
+    .bloco img{
+        height:180px;
+    }
+    .bloco ul li{
+        width:200px;
+        margin-right:25px;   
+    }
+
+    .pag3 .bloco ul li{
+        width:auto;
+        padding:0;  
+    }
+    .pag3 .bloco img{
+        height:200px;
+        width:200px;
+        margin-left:20px;
+
+    }
+    .pag4 .bloco img{
+        height:250px;
+    }
+    .foot .bloco img{
+        height:150px;
+        width:auto;
+    }
+    .foot .bloco ul li{
+        width:auto;
+        padding-right:0;
+    }
+    
+}
