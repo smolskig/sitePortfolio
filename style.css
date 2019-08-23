@@ -10,7 +10,7 @@
 .pag1{
     background-color:#456eaf;
 }
-.profile img{
+.profile{
     border:0;
     border-radius:50%;
 }
@@ -44,6 +44,7 @@
 .bloco img{
     height:240px;
     width:310px;
+    transition: 0.2s ease-in-out;
 }
 
 #html{
@@ -100,3 +101,8 @@
     font-family:consolas,sans-serif;
     font-weight: bold;
 }
+
+.clicaveis:hover{
+    opacity:0.5; 
+ }
+ 
