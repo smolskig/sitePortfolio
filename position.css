@@ -122,8 +122,48 @@ section{
  margin-right:25px;   
 }
 
+@media (max-width:768px){
+    .bloco{
+        width:100vw;
+        height:100vh;
+        display:flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        margin:0;
+    }
+    .bloco img{
+        height:100px;
+        width:auto;
+    }
+    .bloco ul li{
+        display:flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        height:auto;
+    }
+    
+    .pag p{
+        display:none;
+    }
+    .pag h2{
+        font-size:30px;
+    }
+    .pag1 h1{
+        font-size:40px;
+    }
 
+    .foot .bloco img{
+        height:100px;
+        width:auto;
+        padding-top:20px;
+    }
+    .foot .bloco{
+        margin:0;
+    }
 
+}
 
 
 
