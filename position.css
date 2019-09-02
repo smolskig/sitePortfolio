@@ -123,6 +123,9 @@ section{
 }
 
 @media (max-width:768px){
+    body{
+        scroll-snap-type: none;
+    }
     .bloco{
         width:100vw;
         height:100vh;
